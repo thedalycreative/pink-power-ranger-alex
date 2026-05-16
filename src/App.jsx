@@ -132,7 +132,7 @@ export default function App() {
               </span>
             </div>
 
-            <h1 className="font-display text-[clamp(3.5rem,15vw,9rem)] leading-[0.85] text-white text-glow-pink glitch-in">
+            <h1 className="font-display text-[clamp(2rem,12vw,9rem)] leading-[0.85] text-white text-glow-pink glitch-in break-words">
               ALEX.<br />
               <span className="text-[#FF1B6B]">CLOVERDALE.</span><br />
               WE NEED YOU.
@@ -340,7 +340,7 @@ export default function App() {
               <h2 className="font-display text-5xl sm:text-7xl text-white text-glow-pink leading-none">
                 ALEX
               </h2>
-              <div className="font-display text-2xl sm:text-3xl text-[#FF1B6B] mt-2 drop-shadow-[0_0_8px_rgba(255,27,107,0.6)]">
+              <div className="font-display text-xl sm:text-3xl text-[#FF1B6B] mt-2 drop-shadow-[0_0_8px_rgba(255,27,107,0.6)]">
                 PINK RANGER OF CLOVERDALE
               </div>
               <p className="mt-6 text-sm sm:text-base text-zinc-300 italic max-w-md mx-auto">
